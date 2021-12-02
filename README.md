@@ -1,13 +1,13 @@
 # Crop Foto Dari KTP Menggunakan OpenCV
 
-- read image
-- Convert Ke Graysclae
+- Read Image
+- Convert ke Graysclae
 - Apply Threshold Otsu
-- find Contour
-- filter contour yang terlalu kecil atau besar
-- cari 4 coordinate box pada contour terbaik
-- lakukan perspective transform dari original image ke 4 coordinate yang didapatkan sebelumnya
-- show image
+- Find Contour
+- Filter Contour yang terlalu kecil atau besar
+- Cari 4 Coordinate Box pada Contour terbaik
+- Lakukan Perspective Transform dari Original Image ke 4 Coordinate yang didapatkan sebelumnya
+- Show image
 
 
 ### Hasil pengetesan
